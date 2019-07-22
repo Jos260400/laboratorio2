@@ -1,3 +1,6 @@
+//Mario Sarmientos 17
+//José Ovando 18071
+
 .global main 
 .func main 
 
